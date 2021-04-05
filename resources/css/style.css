@@ -1,6 +1,7 @@
  body {
      background-color: black;
      text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
 
 a{
@@ -30,3 +31,7 @@ a{
     color: grey;
     text-align: center;
  }
+footer h3 {
+    text-align: right;
+
+}
